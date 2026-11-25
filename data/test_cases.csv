@@ -1,0 +1,13 @@
+﻿test_id,input,expected
+TC01,My payment failed but money was deducted from my bank account.,"Explain how to verify the transaction, possible reversal timelines, and how to contact support if the amount is not returned."
+TC02,I was charged twice for the same order.,Acknowledge the duplicate charge and explain how to verify both transactions and request an investigation.
+TC03,My refund has not arrived after 7 business days.,Explain how to check refund status and advise contacting support with the order and transaction reference.
+TC04,I cannot log in even after resetting my password.,Provide practical account-access troubleshooting steps and an escalation path.
+TC05,The app crashes whenever I try to make a payment.,Acknowledge the technical issue and suggest safe troubleshooting and reporting steps.
+TC06,I received a damaged product.,Apologize and explain how to report the damage and request an eligible replacement or refund.
+TC07,My order is marked delivered but I have not received it.,Suggest checking the delivery location and contacting support to investigate the delivery.
+TC08,I entered the wrong delivery address after placing my order.,Explain that address changes depend on order status and advise contacting support immediately.
+TC09,I was charged but did not receive an order confirmation.,Explain how to verify payment and order status before attempting another payment.
+TC10,My discount coupon is not working at checkout.,Explain possible coupon restrictions and suggest checking validity and eligibility.
+TC11,I want to cancel my order but the cancel button is unavailable.,Explain that cancellation depends on order status and provide a support escalation option.
+TC12,My account has been locked unexpectedly.,Explain account-verification steps and how to request account recovery.

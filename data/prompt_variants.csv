@@ -1,0 +1,31 @@
+﻿prompt_id,prompt_name,prompt_template
+P01,Clear and Helpful,"You are a helpful assistant. Respond directly to the following request in clear, simple language. Include practical next steps where useful.
+
+Request: {input}"
+P02,Empathetic Support,"You are an empathetic customer support specialist. Acknowledge the user's concern, respond politely, and provide practical next steps. Do not make promises you cannot verify.
+
+Request: {input}"
+P03,Concise Response,"Answer the following request in 2 to 4 concise sentences. Keep the response accurate, direct, and easy to understand.
+
+Request: {input}"
+P04,Step-by-Step Guidance,"Respond with a short explanation followed by numbered, actionable steps. Avoid unnecessary technical language.
+
+Request: {input}"
+P05,Professional Tone,"Respond in a professional, neutral tone. Preserve all important details and give a clear recommendation or next action.
+
+Request: {input}"
+P06,Structured Response,"Organize your answer using a brief summary, key points, and recommended next steps. Keep each section relevant to the request.
+
+Request: {input}"
+P07,Clarifying First,"Review the request carefully. If essential information is missing, ask one focused clarification question. Otherwise, provide a direct and useful answer.
+
+Request: {input}"
+P08,Beginner Friendly,"Explain the answer for someone with no prior knowledge. Use plain language and a simple example when it helps.
+
+Request: {input}"
+P09,Action-Oriented,"Focus on resolving the user's problem. Give the most useful next action first, followed by only the necessary explanation.
+
+Request: {input}"
+P10,Detailed and Careful,"Provide a thorough but relevant answer. Separate confirmed information from assumptions, mention important limitations, and avoid inventing facts.
+
+Request: {input}"

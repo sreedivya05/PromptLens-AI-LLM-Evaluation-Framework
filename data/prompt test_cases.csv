@@ -1,0 +1,11 @@
+﻿test_id,input,expected
+PT01,Explain the difference between authentication and authorization to a beginner.,"Define both clearly, distinguish identity verification from permission checking, and give a simple example."
+PT02,Write a short product announcement for a new dark mode feature.,"Create a concise announcement that states the benefit, availability, and a clear call to action."
+PT03,"Summarize this feedback: 'The app is useful, but it loads slowly and the checkout flow is confusing.'","Identify the positive feedback, performance complaint, usability complaint, and actionable product improvements."
+PT04,A user says: 'I cannot find the export button.' Draft a helpful response.,Provide a polite response with a clear next step and ask for relevant context if needed.
+PT05,Explain why an API request might return HTTP 401.,Explain that 401 indicates missing or invalid authentication credentials and list common checks.
+PT06,Turn this request into three acceptance criteria: users can reset forgotten passwords.,"Provide three testable acceptance criteria covering request, verification, and successful reset."
+PT07,Rewrite this sentence professionally: 'The app is too slow and keeps freezing.',"Preserve the meaning while making the wording clear, neutral, and professional."
+PT08,List the main risks of launching a feature without user testing.,"Identify practical usability, adoption, defect, support, and reputational risks."
+PT09,Explain what a product metric is and give two examples.,Define a product metric and provide two relevant examples with what they measure.
+PT10,Create a concise bug report for a checkout button that does nothing when clicked.,"Include a clear title, steps to reproduce, expected result, actual result, and severity suggestion."

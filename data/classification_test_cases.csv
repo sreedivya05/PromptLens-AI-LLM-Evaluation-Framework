@@ -1,0 +1,13 @@
+﻿test_id,input,expected
+CL01,The app crashes every time I open the order page.,Bug
+CL02,Please add the option to download invoices as PDF.,Feature Request
+CL03,The dashboard takes nearly 20 seconds to load.,Performance
+CL04,The new checkout design is clean and easy to use.,Positive Feedback
+CL05,The password reset link sends me to an error page.,Bug
+CL06,It would be helpful to support sign-in with Google.,Feature Request
+CL07,Search results appear very slowly when I type.,Performance
+CL08,The support team resolved my issue quickly. Thank you!,Positive Feedback
+CL09,The app closes when I upload a profile picture.,Bug
+CL10,Please introduce a dark mode option.,Feature Request
+CL11,The home screen freezes on older devices.,Performance
+CL12,Navigation is simple and the app is easy to understand.,Positive Feedback

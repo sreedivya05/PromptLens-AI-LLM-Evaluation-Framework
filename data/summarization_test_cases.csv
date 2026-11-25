@@ -1,0 +1,11 @@
+﻿test_id,input,expected
+SM01,"Users like the simple interface, but several report slow loading on the dashboard. Some also want downloadable reports.","Summarize the positive feedback, main performance issue, feature request, and recommended product actions."
+SM02,"Customers reported failed payments, delayed refunds, and difficulty reaching support. A few users praised the quick delivery experience.",Summarize the key customer pain points and positive feedback without losing important details.
+SM03,"The latest release improved search relevance. However, filters reset after users open a product and return to results.","Summarize the improvement, remaining usability issue, and likely follow-up action."
+SM04,"Interviewees said onboarding was easy, but they were unsure which plan to choose. Several requested a comparison table.","Summarize user sentiment, confusion point, and suggested improvement."
+SM05,The mobile app performs well on recent devices but freezes on older phones during image uploads.,"Summarize the performance finding, affected scenario, and investigation priority."
+SM06,Customers appreciate order tracking but want more accurate delivery estimates and proactive delay notifications.,Summarize what works well and the two requested improvements.
+SM07,"A new export feature is popular with analysts, but CSV files omit the selected date range and timezone.","Summarize adoption feedback, the export defect, and the required correction."
+SM08,Users find the settings page difficult to navigate. They requested grouped preferences and a search field.,Summarize the usability problem and proposed changes.
+SM09,"Support tickets decreased after the help-center update, although users still struggle to find account recovery instructions.",Summarize the measured outcome and the remaining content gap.
+SM10,The beta group liked the new notification controls. Some users want separate settings for promotional and transaction messages.,Summarize the overall response and the specific enhancement request.

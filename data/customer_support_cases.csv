@@ -1,0 +1,11 @@
+﻿test_id,input,expected
+CS01,A customer says their card was charged but checkout displayed payment failed.,"Empathize, explain how to verify the transaction, discourage repeated payment until status is clear, and offer support escalation."
+CS02,A customer says the delivery agent never called but marked the package undeliverable.,"Acknowledge the concern, ask them to verify delivery details, and offer an investigation using the order ID."
+CS03,A customer received the wrong size and wants an exchange.,"Apologize, explain how to check exchange eligibility, and outline the information needed to start an exchange."
+CS04,A customer is upset because support has not replied for three days.,"Acknowledge the delay, apologize, and explain how to escalate the existing ticket without creating duplicate requests."
+CS05,A customer wants to delete their account and personal data.,Explain how to submit an account-deletion request and mention that identity verification or legal retention requirements may apply.
+CS06,A customer says their subscription renewed after they thought they had cancelled it.,Explain how to verify cancellation and renewal details and request a billing review.
+CS07,A customer cannot receive the one-time password on their phone.,"Suggest checking the phone number, signal, blocked messages, and retry limits, then provide an alternative support route."
+CS08,A customer reports that a product listing showed one price but checkout showed a higher price.,Acknowledge the discrepancy and suggest sharing a screenshot and product details for investigation.
+CS09,A customer says their wallet balance disappeared after an app update.,"Ask them to refresh and verify wallet history, then contact support with account and transaction details."
+CS10,A customer asks for an update on an unresolved complaint.,Explain how to check the existing complaint status and request an update using its ticket reference.
